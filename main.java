@@ -1,7 +1,7 @@
 
 public class main {
     public static void main(String[] args) {
-        String status = "online",seguridad = "basic",modo = "normal";
+        String status = "online",seguridad = "basic",modo = "sanctuary";
         boolean alarmaM=true;
         System.out.println("=== SERVER ROOM HORROR ===");
         System.out.println("Estat del servidor: " + status);
