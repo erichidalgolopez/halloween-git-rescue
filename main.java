@@ -7,5 +7,7 @@ public class main {
         System.out.println("Estat del servidor: " + status);
         System.out.println("Seguretat: " + seguridad);
         System.out.println("Mode: " + modo);
+
+        System.out.println("Protocols de seguretat activats.");
     }
 }
